@@ -1,7 +1,7 @@
 variable "ssh-key" {
     type = string
     description = "keypair to utilize"
-    default = "vamsi-chunduru"
+    default = "ssh-key"
 }
 
 # variable "vpc_id" {
