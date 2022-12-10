@@ -1,4 +1,4 @@
-variable "key_pair_name" {
+variable "ssh-key" {
     type = string
     description = "keypair to utilize"
     default = "vamsi-chunduru"
